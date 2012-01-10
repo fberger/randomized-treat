@@ -1,0 +1,4 @@
+*~
+*.pyc
+treat.log
+local_settings.py
